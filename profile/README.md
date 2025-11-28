@@ -48,7 +48,6 @@ You **[save $8 every month](https://yupbeat.com/recommends/freshworks/)** on the
 | **Freshdesk Starter – $12.40/Month** | Use this Freshworks discount to access Freshdesk Starter at $12.40/month and upgrade your ticketing, automation, and multi-channel support instantly. | [Grab Deal](https://yupbeat.com/recommends/freshworks/) |
 
 
-
 ## How to Apply the Freshworks Coupon Code?
 
 Follow these 5 simple steps to claim a Freshworks promo code.
@@ -85,65 +84,21 @@ Below is the comprehensive pricing table guide for Freshworks.
 
 ### 1. Freshdesk Support Desk Plans
 
-Plan Name
-
-Annual Billing (USD)
-
-Monthly Billing (USD)
-
-Free
-
-$0
-
-$0
-
-Growth
-
-$15
-
-$18
-
-Pro
-
-$49
-
-$59
-
-Enterprise
-
-$79
-
-$95
-
+| Plan Name   | Annual Billing (USD) | Monthly Billing (USD) |
+|-------------|-----------------------|------------------------|
+| Free        | $0                    | $0                     |
+| Growth      | $15                   | $18                    |
+| Pro         | $49                   | $59                    |
+| Enterprise  | $79                   | $95                    |
 
 
 ### 2. Freshdesk Omni Plans
 
-Plan Name
-
-Annual Billing (USD)
-
-Monthly Billing (USD)
-
-Growth
-
-$29
-
-$35
-
-Pro
-
-$69
-
-$83
-
-Enterprise
-
-$109
-
-$131
-
-
+| Plan Name   | Annual Billing (USD) | Monthly Billing (USD) |
+|-------------|-----------------------|------------------------|
+| Growth      | $29                   | $35                    |
+| Pro         | $69                   | $83                    |
+| Enterprise  | $109                  | $131                   |
 
 
 For more detailed pricing, you can refer to the Freshworks pricing [page](https://www.freshworks.com/freshdesk/pricing/).
