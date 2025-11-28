@@ -1,6 +1,6 @@
 # Freshworks Coupon Code (2025) | Get 90% Promotional Discount
 
-Using a verified Freshworks coupon, you can save up to a 90% discount on the pro plan for startups if you raised $4 million in funding, and there is a flat 50% off for everyone.
+Using a **[verified Freshworks coupon](https://yupbeat.com/recommends/freshworks/)**, you can save up to a 90% discount on the pro plan for startups if you raised $4 million in funding, and there is a flat 50% off for everyone.
 
 ## Freshworks Voucher For Startups Offer To Save 90%
 
